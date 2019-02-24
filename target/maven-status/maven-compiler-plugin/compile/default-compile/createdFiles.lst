@@ -1,0 +1,8 @@
+com\test\service\UserService.class
+com\test\dao\UserDao.class
+com\test\dao\UserDao$1.class
+com\test\domain\LoginLog.class
+com\test\domain\User.class
+com\test\web\LoginCommand.class
+com\test\dao\LoginLogDao.class
+com\test\web\LoginController.class
